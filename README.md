@@ -25,5 +25,5 @@ Settings are passed as an object literal.
 
 ## More
 
-- [Visit the blog post](http://wp.me/p2r2o4-oi).
+- [Visit the blog post](http://www.smartcode.ch/blog/full-width-menu-with-equally-padded-elements/).
 - Check out the [demo](http://showcase.smartcode.ch/full-width-menu-with-equally-padded-elements/).
